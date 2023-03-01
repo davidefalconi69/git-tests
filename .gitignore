@@ -1,0 +1,3 @@
+# ignore secret.txt
+secret.txt
+# to ignore all txt files: *.txt
